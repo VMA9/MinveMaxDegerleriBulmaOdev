@@ -17,7 +17,7 @@ public class MinveMaxDegerleriBulmaOdev {
         Scanner input = new Scanner(System.in);
         int counter, n, min = 1, max = 1;
 
-        System.out.print("Girilecek sayıların sayısını giriniz : ");
+        System.out.print("Kaç tane sayı gireceksiniz : ");
         counter = input.nextInt();
 
         for (int i = 1; i <= counter; i++) {
